@@ -1,4 +1,4 @@
-# ubuntu-vm-setup
+# Ubuntu-vm-setup
 
 This project guides you through the step-by-step process of installing **Ubuntu 24.04 LTS** on **Oracle VirtualBox** using a **Windows 11** host system. It's ideal for users who want to set up a Linux environment for testing or developement
 
